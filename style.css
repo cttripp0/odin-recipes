@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+.recipe {
+    width: 150px;
+    height: 150px;
+    background-color: tan;
+    text-align: center;
+    padding: 60px 0px;
+    margin: 10px;
+    display: inline-block
+}
+
+li {
+    font-family: 'Trebuchet MS', 'Tacoma', sans-serif;
+    list-style-type: none;
+}
+
+#mac_and_cheese {
+    background-image: url(https://img.freepik.com/free-photo/macaroni-with-cheese-chicken-mushrooms-baked-oven_2829-11120.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#cheesecake {
+    background-image: url(https://img.freepik.com/free-photo/berry-cheese-cake-table_140725-9316.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#burger {
+    background-image: url(https://img.freepik.com/free-photo/juicy-cheeseburger-rustic-wooden-board_9975-24623.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#pizza {
+    background-image: url(https://img.freepik.com/free-photo/imeretian-khachapuri-cheese-lemon-side-view_140725-11276.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#milkshake {
+    background-image: url(https://img.freepik.com/free-photo/chocolate-smoothie_1339-2856.jpg);
+    background-size: cover;
+    background-position: center;
+}
