@@ -2,7 +2,7 @@ h1 {
     color: goldenrod;
     text-align: center;
     font-size: 55px;
-    position:sticky;
+    position:relative;
     top: 0px;
     z-index: 1000;
     margin:0px;
@@ -112,8 +112,9 @@ a:visited{
 
 .fa-house {
     position:absolute;
-    left: 93%;
+    left: 95%;
     top: 50%;
     transform:translateY(-50%);
     font-size: 40px;
+    color:goldenrod;
 }
